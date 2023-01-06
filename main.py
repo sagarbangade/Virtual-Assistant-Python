@@ -43,7 +43,6 @@ def takeCommand():
 
         return Query
 
-#comment
 def speak(audio):
     engine = pyttsx3.init()
     # getter method(gets the current value
